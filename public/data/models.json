@@ -1,8 +1,8 @@
 {
   "source": "https://openrouter.ai/api/v1/models",
-  "total_models": 458,
-  "free_models_count": 21,
-  "paid_models_count": 437,
+  "total_models": 460,
+  "free_models_count": 20,
+  "paid_models_count": 440,
   "free_models": [
     {
       "id": "cohere/north-mini-code:free",
@@ -367,72 +367,6 @@
       }
     },
     {
-      "id": "inclusionai/ling-3.0-flash-fin:free",
-      "canonical_slug": "inclusionai/ling-3.0-flash-fin-20260827",
-      "hugging_face_id": null,
-      "name": "inclusionAI: Ling 3.0 Flash Fin (free)",
-      "created": 1787846290,
-      "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
-      "context_length": 262144,
-      "architecture": {
-        "modality": "text->text",
-        "input_modalities": [
-          "text"
-        ],
-        "output_modalities": [
-          "text"
-        ],
-        "tokenizer": "Other",
-        "instruct_type": null
-      },
-      "pricing": {
-        "prompt": "0",
-        "completion": "0"
-      },
-      "top_provider": {
-        "context_length": 262144,
-        "max_completion_tokens": 32768,
-        "is_moderated": false
-      },
-      "per_request_limits": null,
-      "supported_parameters": [
-        "frequency_penalty",
-        "include_reasoning",
-        "logprobs",
-        "max_tokens",
-        "presence_penalty",
-        "reasoning",
-        "repetition_penalty",
-        "seed",
-        "stop",
-        "temperature",
-        "tool_choice",
-        "tools",
-        "top_k",
-        "top_logprobs",
-        "top_p"
-      ],
-      "default_parameters": {},
-      "supported_voices": null,
-      "knowledge_cutoff": null,
-      "expiration_date": null,
-      "links": {
-        "details": "/api/v1/models/inclusionai/ling-3.0-flash-fin-20260827/endpoints"
-      },
-      "benchmarks": {
-        "design_arena": [],
-        "artificial_analysis": {
-          "intelligence_index": 22.6,
-          "coding_index": 55.6,
-          "agentic_index": 27.9
-        }
-      },
-      "reasoning": {
-        "mandatory": false,
-        "default_enabled": true
-      }
-    },
-    {
       "id": "inclusionai/ling-3.0-flash-sante:free",
       "canonical_slug": "inclusionai/ling-3.0-flash-sante-20260904",
       "hugging_face_id": null,
@@ -768,7 +702,7 @@
             "category": "asciiart",
             "elo": 1102,
             "win_rate": 37.6,
-            "rank": 60
+            "rank": 61
           },
           {
             "arena": "models",
@@ -794,15 +728,15 @@
           {
             "arena": "models",
             "category": "svg",
-            "elo": 1069,
-            "win_rate": 33.3,
-            "rank": 65
+            "elo": 1067,
+            "win_rate": 33.1,
+            "rank": 66
           },
           {
             "arena": "models",
             "category": "uicomponent",
             "elo": 1149,
-            "win_rate": 37,
+            "win_rate": 36.9,
             "rank": 71
           },
           {
@@ -1394,9 +1328,9 @@
           {
             "arena": "models",
             "category": "asciiart",
-            "elo": 1097,
-            "win_rate": 33.1,
-            "rank": 61
+            "elo": 1104,
+            "win_rate": 33.9,
+            "rank": 59
           },
           {
             "arena": "models",
@@ -1408,9 +1342,9 @@
           {
             "arena": "models",
             "category": "dataviz",
-            "elo": 1180,
-            "win_rate": 38.5,
-            "rank": 61
+            "elo": 1178,
+            "win_rate": 38.3,
+            "rank": 63
           },
           {
             "arena": "models",
@@ -1422,9 +1356,9 @@
           {
             "arena": "models",
             "category": "svg",
-            "elo": 1112,
-            "win_rate": 34.7,
-            "rank": 53
+            "elo": 1111,
+            "win_rate": 34.5,
+            "rank": 54
           },
           {
             "arena": "models",
@@ -1845,74 +1779,8 @@
     },
     "inclusionai": {
       "name": "inclusionai",
-      "count": 2,
+      "count": 1,
       "models": [
-        {
-          "id": "inclusionai/ling-3.0-flash-fin:free",
-          "canonical_slug": "inclusionai/ling-3.0-flash-fin-20260827",
-          "hugging_face_id": null,
-          "name": "inclusionAI: Ling 3.0 Flash Fin (free)",
-          "created": 1787846290,
-          "description": "Ling 3.0 Flash Fin is a finance-focused mixture-of-experts model from InclusionAI, built on Ling 3.0 Flash with 5.1B active parameters out of 124B total. It is designed for real-world investment...",
-          "context_length": 262144,
-          "architecture": {
-            "modality": "text->text",
-            "input_modalities": [
-              "text"
-            ],
-            "output_modalities": [
-              "text"
-            ],
-            "tokenizer": "Other",
-            "instruct_type": null
-          },
-          "pricing": {
-            "prompt": "0",
-            "completion": "0"
-          },
-          "top_provider": {
-            "context_length": 262144,
-            "max_completion_tokens": 32768,
-            "is_moderated": false
-          },
-          "per_request_limits": null,
-          "supported_parameters": [
-            "frequency_penalty",
-            "include_reasoning",
-            "logprobs",
-            "max_tokens",
-            "presence_penalty",
-            "reasoning",
-            "repetition_penalty",
-            "seed",
-            "stop",
-            "temperature",
-            "tool_choice",
-            "tools",
-            "top_k",
-            "top_logprobs",
-            "top_p"
-          ],
-          "default_parameters": {},
-          "supported_voices": null,
-          "knowledge_cutoff": null,
-          "expiration_date": null,
-          "links": {
-            "details": "/api/v1/models/inclusionai/ling-3.0-flash-fin-20260827/endpoints"
-          },
-          "benchmarks": {
-            "design_arena": [],
-            "artificial_analysis": {
-              "intelligence_index": 22.6,
-              "coding_index": 55.6,
-              "agentic_index": 27.9
-            }
-          },
-          "reasoning": {
-            "mandatory": false,
-            "default_enabled": true
-          }
-        },
         {
           "id": "inclusionai/ling-3.0-flash-sante:free",
           "canonical_slug": "inclusionai/ling-3.0-flash-sante-20260904",
@@ -2261,7 +2129,7 @@
                 "category": "asciiart",
                 "elo": 1102,
                 "win_rate": 37.6,
-                "rank": 60
+                "rank": 61
               },
               {
                 "arena": "models",
@@ -2287,15 +2155,15 @@
               {
                 "arena": "models",
                 "category": "svg",
-                "elo": 1069,
-                "win_rate": 33.3,
-                "rank": 65
+                "elo": 1067,
+                "win_rate": 33.1,
+                "rank": 66
               },
               {
                 "arena": "models",
                 "category": "uicomponent",
                 "elo": 1149,
-                "win_rate": 37,
+                "win_rate": 36.9,
                 "rank": 71
               },
               {
@@ -2917,9 +2785,9 @@
               {
                 "arena": "models",
                 "category": "asciiart",
-                "elo": 1097,
-                "win_rate": 33.1,
-                "rank": 61
+                "elo": 1104,
+                "win_rate": 33.9,
+                "rank": 59
               },
               {
                 "arena": "models",
@@ -2931,9 +2799,9 @@
               {
                 "arena": "models",
                 "category": "dataviz",
-                "elo": 1180,
-                "win_rate": 38.5,
-                "rank": 61
+                "elo": 1178,
+                "win_rate": 38.3,
+                "rank": 63
               },
               {
                 "arena": "models",
@@ -2945,9 +2813,9 @@
               {
                 "arena": "models",
                 "category": "svg",
-                "elo": 1112,
-                "win_rate": 34.7,
-                "rank": 53
+                "elo": 1111,
+                "win_rate": 34.5,
+                "rank": 54
               },
               {
                 "arena": "models",
@@ -2987,5 +2855,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-28T03:40:19+00:00"
+  "updated_at": "2026-09-28T19:01:08+00:00"
 }
