@@ -250,7 +250,7 @@
       "benchmarks": {
         "design_arena": [],
         "artificial_analysis": {
-          "intelligence_index": null,
+          "intelligence_index": 14.7,
           "coding_index": 43.4,
           "agentic_index": 4.2
         }
@@ -700,7 +700,7 @@
           {
             "arena": "models",
             "category": "asciiart",
-            "elo": 1109,
+            "elo": 1106,
             "win_rate": 38.6,
             "rank": 58
           },
@@ -714,9 +714,9 @@
           {
             "arena": "models",
             "category": "dataviz",
-            "elo": 1150,
-            "win_rate": 37.6,
-            "rank": 76
+            "elo": 1151,
+            "win_rate": 37.7,
+            "rank": 75
           },
           {
             "arena": "models",
@@ -728,16 +728,16 @@
           {
             "arena": "models",
             "category": "svg",
-            "elo": 1069,
+            "elo": 1070,
             "win_rate": 32.9,
             "rank": 68
           },
           {
             "arena": "models",
             "category": "uicomponent",
-            "elo": 1148,
+            "elo": 1147,
             "win_rate": 36.4,
-            "rank": 73
+            "rank": 75
           },
           {
             "arena": "models",
@@ -1239,9 +1239,9 @@
       "benchmarks": {
         "design_arena": [],
         "artificial_analysis": {
-          "intelligence_index": null,
+          "intelligence_index": 25.7,
           "coding_index": 52.9,
-          "agentic_index": null
+          "agentic_index": 23.5
         }
       },
       "reasoning": {
@@ -1328,9 +1328,9 @@
           {
             "arena": "models",
             "category": "asciiart",
-            "elo": 1103,
+            "elo": 1101,
             "win_rate": 33.9,
-            "rank": 61
+            "rank": 60
           },
           {
             "arena": "models",
@@ -1659,7 +1659,7 @@
           "benchmarks": {
             "design_arena": [],
             "artificial_analysis": {
-              "intelligence_index": null,
+              "intelligence_index": 14.7,
               "coding_index": 43.4,
               "agentic_index": 4.2
             }
@@ -2127,7 +2127,7 @@
               {
                 "arena": "models",
                 "category": "asciiart",
-                "elo": 1109,
+                "elo": 1106,
                 "win_rate": 38.6,
                 "rank": 58
               },
@@ -2141,9 +2141,9 @@
               {
                 "arena": "models",
                 "category": "dataviz",
-                "elo": 1150,
-                "win_rate": 37.6,
-                "rank": 76
+                "elo": 1151,
+                "win_rate": 37.7,
+                "rank": 75
               },
               {
                 "arena": "models",
@@ -2155,16 +2155,16 @@
               {
                 "arena": "models",
                 "category": "svg",
-                "elo": 1069,
+                "elo": 1070,
                 "win_rate": 32.9,
                 "rank": 68
               },
               {
                 "arena": "models",
                 "category": "uicomponent",
-                "elo": 1148,
+                "elo": 1147,
                 "win_rate": 36.4,
-                "rank": 73
+                "rank": 75
               },
               {
                 "arena": "models",
@@ -2696,9 +2696,9 @@
           "benchmarks": {
             "design_arena": [],
             "artificial_analysis": {
-              "intelligence_index": null,
+              "intelligence_index": 25.7,
               "coding_index": 52.9,
-              "agentic_index": null
+              "agentic_index": 23.5
             }
           },
           "reasoning": {
@@ -2785,9 +2785,9 @@
               {
                 "arena": "models",
                 "category": "asciiart",
-                "elo": 1103,
+                "elo": 1101,
                 "win_rate": 33.9,
-                "rank": 61
+                "rank": 60
               },
               {
                 "arena": "models",
@@ -2855,5 +2855,5 @@
       ]
     }
   },
-  "updated_at": "2026-09-30T03:59:51+00:00"
+  "updated_at": "2026-09-30T17:19:55+00:00"
 }
