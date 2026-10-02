@@ -174,7 +174,7 @@
       "default_parameters": {},
       "supported_voices": null,
       "knowledge_cutoff": null,
-      "expiration_date": null,
+      "expiration_date": "2026-12-31",
       "links": {
         "details": "/api/v1/models/dots-studio/dots-3-note-preview-20260813/endpoints"
       },
@@ -757,9 +757,9 @@
           {
             "arena": "models",
             "category": "asciiart",
-            "elo": 1108,
-            "win_rate": 38.6,
-            "rank": 57
+            "elo": 1104,
+            "win_rate": 37.9,
+            "rank": 58
           },
           {
             "arena": "models",
@@ -771,7 +771,7 @@
           {
             "arena": "models",
             "category": "dataviz",
-            "elo": 1151,
+            "elo": 1150,
             "win_rate": 37.7,
             "rank": 76
           },
@@ -786,15 +786,15 @@
             "arena": "models",
             "category": "svg",
             "elo": 1070,
-            "win_rate": 32.9,
+            "win_rate": 33,
             "rank": 68
           },
           {
             "arena": "models",
             "category": "uicomponent",
-            "elo": 1147,
+            "elo": 1146,
             "win_rate": 36.6,
-            "rank": 75
+            "rank": 74
           },
           {
             "arena": "models",
@@ -1399,9 +1399,9 @@
           {
             "arena": "models",
             "category": "dataviz",
-            "elo": 1178,
+            "elo": 1177,
             "win_rate": 38.6,
-            "rank": 63
+            "rank": 65
           },
           {
             "arena": "models",
@@ -1413,16 +1413,16 @@
           {
             "arena": "models",
             "category": "svg",
-            "elo": 1110,
-            "win_rate": 33.9,
+            "elo": 1112,
+            "win_rate": 34,
             "rank": 56
           },
           {
             "arena": "models",
             "category": "uicomponent",
-            "elo": 1208,
-            "win_rate": 41.3,
-            "rank": 51
+            "elo": 1206,
+            "win_rate": 41.4,
+            "rank": 52
           },
           {
             "arena": "models",
@@ -1640,7 +1640,7 @@
           "default_parameters": {},
           "supported_voices": null,
           "knowledge_cutoff": null,
-          "expiration_date": null,
+          "expiration_date": "2026-12-31",
           "links": {
             "details": "/api/v1/models/dots-studio/dots-3-note-preview-20260813/endpoints"
           },
@@ -2247,9 +2247,9 @@
               {
                 "arena": "models",
                 "category": "asciiart",
-                "elo": 1108,
-                "win_rate": 38.6,
-                "rank": 57
+                "elo": 1104,
+                "win_rate": 37.9,
+                "rank": 58
               },
               {
                 "arena": "models",
@@ -2261,7 +2261,7 @@
               {
                 "arena": "models",
                 "category": "dataviz",
-                "elo": 1151,
+                "elo": 1150,
                 "win_rate": 37.7,
                 "rank": 76
               },
@@ -2276,15 +2276,15 @@
                 "arena": "models",
                 "category": "svg",
                 "elo": 1070,
-                "win_rate": 32.9,
+                "win_rate": 33,
                 "rank": 68
               },
               {
                 "arena": "models",
                 "category": "uicomponent",
-                "elo": 1147,
+                "elo": 1146,
                 "win_rate": 36.6,
-                "rank": 75
+                "rank": 74
               },
               {
                 "arena": "models",
@@ -2919,9 +2919,9 @@
               {
                 "arena": "models",
                 "category": "dataviz",
-                "elo": 1178,
+                "elo": 1177,
                 "win_rate": 38.6,
-                "rank": 63
+                "rank": 65
               },
               {
                 "arena": "models",
@@ -2933,16 +2933,16 @@
               {
                 "arena": "models",
                 "category": "svg",
-                "elo": 1110,
-                "win_rate": 33.9,
+                "elo": 1112,
+                "win_rate": 34,
                 "rank": 56
               },
               {
                 "arena": "models",
                 "category": "uicomponent",
-                "elo": 1208,
-                "win_rate": 41.3,
-                "rank": 51
+                "elo": 1206,
+                "win_rate": 41.4,
+                "rank": 52
               },
               {
                 "arena": "models",
@@ -2975,5 +2975,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-01T17:47:05+00:00"
+  "updated_at": "2026-10-02T04:04:33+00:00"
 }
