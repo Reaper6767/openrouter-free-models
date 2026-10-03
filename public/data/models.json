@@ -817,7 +817,7 @@
             "category": "asciiart",
             "elo": 1104,
             "win_rate": 37.9,
-            "rank": 59
+            "rank": 60
           },
           {
             "arena": "models",
@@ -850,9 +850,9 @@
           {
             "arena": "models",
             "category": "uicomponent",
-            "elo": 1148,
-            "win_rate": 36.7,
-            "rank": 74
+            "elo": 1146,
+            "win_rate": 36.6,
+            "rank": 75
           },
           {
             "arena": "models",
@@ -1443,9 +1443,9 @@
           {
             "arena": "models",
             "category": "asciiart",
-            "elo": 1103,
-            "win_rate": 33.9,
-            "rank": 60
+            "elo": 1106,
+            "win_rate": 34.2,
+            "rank": 58
           },
           {
             "arena": "models",
@@ -1457,9 +1457,9 @@
           {
             "arena": "models",
             "category": "dataviz",
-            "elo": 1175,
-            "win_rate": 38.3,
-            "rank": 66
+            "elo": 1173,
+            "win_rate": 38.1,
+            "rank": 67
           },
           {
             "arena": "models",
@@ -2365,7 +2365,7 @@
                 "category": "asciiart",
                 "elo": 1104,
                 "win_rate": 37.9,
-                "rank": 59
+                "rank": 60
               },
               {
                 "arena": "models",
@@ -2398,9 +2398,9 @@
               {
                 "arena": "models",
                 "category": "uicomponent",
-                "elo": 1148,
-                "win_rate": 36.7,
-                "rank": 74
+                "elo": 1146,
+                "win_rate": 36.6,
+                "rank": 75
               },
               {
                 "arena": "models",
@@ -3021,9 +3021,9 @@
               {
                 "arena": "models",
                 "category": "asciiart",
-                "elo": 1103,
-                "win_rate": 33.9,
-                "rank": 60
+                "elo": 1106,
+                "win_rate": 34.2,
+                "rank": 58
               },
               {
                 "arena": "models",
@@ -3035,9 +3035,9 @@
               {
                 "arena": "models",
                 "category": "dataviz",
-                "elo": 1175,
-                "win_rate": 38.3,
-                "rank": 66
+                "elo": 1173,
+                "win_rate": 38.1,
+                "rank": 67
               },
               {
                 "arena": "models",
@@ -3091,5 +3091,5 @@
       ]
     }
   },
-  "updated_at": "2026-10-03T03:49:01+00:00"
+  "updated_at": "2026-10-03T15:29:21+00:00"
 }
